@@ -7,7 +7,7 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": false,
+      "externalConsole": true,
       "cwd": "c:/Users/mateo/code",
       "program": "c:/Users/mateo/code/build/Debug/outDebug",
       "MIMode": "gdb",
