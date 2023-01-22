@@ -10,7 +10,7 @@
 // int numeros [] = {21,32,15,64}; donde lo que esta dentro de un corchete son los elementos
 // como buscamos cosas dentro de un array? simple ponemos numeros[3] despues de iniciar el array
 // asi estaremos buscando el dato en la posicion 3
-// en el caso de letras haremos: char letras[5] = {"a","b","c","d","e"};
+// en el caso de letras haremos: char letras[5] = {"a","b","c","d","e"};(con comillas '' ahi tierne "")
 // ahora un programa que calcule la suma de elementos dentro de un array y de el resultado
 #include<iostream>
 #include<conio.h>
