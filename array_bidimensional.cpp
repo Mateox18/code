@@ -15,7 +15,7 @@ int main (){
     cin>>filas;
     // almacenando elementos en la matriz
     for(int i = 0; i<filas; i++){
-        for (int j = 0; i < columnas; j++)
+        for (int j = 0; j < columnas; j++)
         {
            cout<<"Digite un numero: ["<<i<<"] ["<<j<<"]: "<<endl;
             cin>>numeros[i][j];
@@ -23,7 +23,7 @@ int main (){
     }
     // mostrando la matriz
      for(int i = 0; i<filas; i++){
-        for (int j = 0; i < columnas; j++)
+        for (int j = 0; j < columnas; j++)
         {
                 cout<<numeros[i][j];
 

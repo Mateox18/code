@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/mateo/code",
-      "program": "c:/Users/mateo/code/build/Debug/outDebug",
+      "cwd": "c:/Users/mateo/OneDrive/Documentos/GitHub/code",
+      "program": "c:/Users/mateo/OneDrive/Documentos/GitHub/code/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

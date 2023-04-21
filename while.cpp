@@ -13,8 +13,5 @@ while (m<=10)
     cout<<m<<endl;
     m++;
 }
-
-
-
     return 0;
 }
