@@ -1,7 +1,6 @@
 //Conversor de numero entero a romano v2
 //Version con getch para que al ejecutarse no se cierre de una lo cual no da tiempo para ver el resultado
 #include <iostream>
-#include <conio.h>
 using namespace std;
 int main(){
 int numero_entero,unidades,decenas,centenas,miles;
@@ -54,6 +53,6 @@ switch(unidades){
            case 8:cout<<"VIII";break;
             case 9:cout<<"IX";break;
 }
-getch();
+cin.get();
 return 0;
 }
